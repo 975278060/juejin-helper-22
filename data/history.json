@@ -1976,6 +1976,145 @@
                 "timestr": "2022-08-01 22:33:15",
                 "content": "关注了用户 <a href=\"https://juejin.cn/user/1556564194374926\" target=\"_blank\">掘金酱</a>"
             }
+        ],
+        "2022-08-02": [
+            {
+                "action_name": "删除文章",
+                "ident": "articles.publish",
+                "id": "7127410416036249631",
+                "timestr": "2022-08-02 22:32:48",
+                "content": "发布了文章 <a href=\"https://juejin.cn/post/7127410416036249631\" target=\"_blank\">Auto.js 特殊定位控件方法 不能在ui线程执行阻塞操作，请使用setTimeout代替</a>"
+            },
+            {
+                "action_name": "删除文章",
+                "ident": "articles.publish",
+                "id": "7127410445258293284",
+                "timestr": "2022-08-02 22:32:55",
+                "content": "发布了文章 <a href=\"https://juejin.cn/post/7127410445258293284\" target=\"_blank\">React报错之map() is not a function</a>"
+            },
+            {
+                "action_name": "删除沸点",
+                "ident": "pins.publish",
+                "id": "7127410477415530510",
+                "timestr": "2022-08-02 22:32:56",
+                "content": "发布了沸点 <a href=\"https://juejin.cn/pin/7127410477415530510\" target=\"_blank\">为什么我要走这条路？因为我在这条路上遇到过你。</a>"
+            },
+            {
+                "action_name": "删除沸点",
+                "ident": "pins.publish",
+                "id": "7127410447984099364",
+                "timestr": "2022-08-02 22:32:57",
+                "content": "发布了沸点 <a href=\"https://juejin.cn/pin/7127410447984099364\" target=\"_blank\">雾里浓云处，寻前路。</a>"
+            },
+            {
+                "ident": "articles.comments",
+                "action_name": "删除评论",
+                "id": "7127410163832816391",
+                "timestr": "2022-08-02 22:32:59",
+                "content": "评论了文章 <a href=\"https://juejin.cn/post/7127310071100342286\" target=\"_blank\">Redis RDB与AOF持久化详解</a>"
+            },
+            {
+                "ident": "articles.comments",
+                "action_name": "删除评论",
+                "id": "7127410149123539749",
+                "timestr": "2022-08-02 22:32:59",
+                "content": "评论了文章 <a href=\"https://juejin.cn/post/7127310366794579998\" target=\"_blank\">python 一行代码打印爱心</a>"
+            },
+            {
+                "ident": "pins.comments",
+                "action_name": "删除评论",
+                "id": "7127410182505890567",
+                "timestr": "2022-08-02 22:33:03",
+                "content": "评论了沸点 <a href=\"https://juejin.cn/pin/7127301044136050695\" target=\"_blank\">[7118933012854603806#打工人的快手餐#]啤酒里面加点冰块加点话梅喝着口味更独特了，夏天，还是得有冰啤酒啊，有人想喝吗？我请你。听说柠檬水和话梅放一起也很好喝，明晚再试试吧，这一大包得吃多久才吃得完啊</a>"
+            },
+            {
+                "ident": "pins.comments",
+                "action_name": "删除评论",
+                "id": "7127410149278843685",
+                "timestr": "2022-08-02 22:33:05",
+                "content": "评论了沸点 <a href=\"https://juejin.cn/pin/7127308854563438600\" target=\"_blank\">[7118932378881359906#理财知识科普#]\n好好理解别人说的话是啥意思而不是恶意揣度也是一种本事。\n\n单一事件驱动不会改变只加速行情趋势，行情向上的动能不足存在调整需求，当然未来一段时间可能会有很多次这样的行情试金石出现。\n\n对抗是一个长期的过程而不是跟人喝酒争风一样的一时上头，曾经有过机会终止但是因为一些偶然也必然的原因失去了，所以可以认为对抗就是一个长期持续的过程，在这个中间也一定会因此出现一些投资的机会，就像疫情一样，这世界上本身就有很多我们改变不了的危机，冷静下来去抓住获利机会。\n\n要做逻辑和客观事实的主人，而不是情绪的奴隶。</a>"
+            },
+            {
+                "ident": "pins.comments",
+                "action_name": "删除评论",
+                "id": "7127410237811835655",
+                "timestr": "2022-08-02 22:33:07",
+                "content": "评论了沸点 <a href=\"https://juejin.cn/pin/7127308247769284621\" target=\"_blank\">今晚的流量。。。</a>"
+            },
+            {
+                "ident": "pins.comments",
+                "action_name": "删除评论",
+                "id": "7127410145122485029",
+                "timestr": "2022-08-02 22:33:09",
+                "content": "评论了沸点 <a href=\"https://juejin.cn/pin/7127307765294301221\" target=\"_blank\">[7118932378868776975#健康冷知识分享#]\n起床头痛，有时候可能起床的时候突然发现自己头痛，一般原因是正常睡觉但是起床太早，又或者睡得太晚起的太早，解决办法是正常睡一觉，当然如果是工作日尽量还是请下假，否则昏昏噩噩过一天也挺难受的</a>"
+            },
+            {
+                "ident": "pins.comments",
+                "action_name": "删除评论",
+                "id": "7127410175547769608",
+                "timestr": "2022-08-02 22:33:10",
+                "content": "评论了沸点 <a href=\"https://juejin.cn/pin/7127303958313304094\" target=\"_blank\">睡不着了兄弟们</a>"
+            },
+            {
+                "ident": "articles.diggs",
+                "id": "7127310071100342286",
+                "action_name": "取消点赞",
+                "timestr": "2022-08-02 22:33:12",
+                "content": "点赞了文章 <a href=\"https://juejin.cn/post/7127310071100342286\" target=\"_blank\">Redis RDB与AOF持久化详解</a>"
+            },
+            {
+                "ident": "articles.diggs",
+                "id": "7127310366794579998",
+                "action_name": "取消点赞",
+                "timestr": "2022-08-02 22:33:12",
+                "content": "点赞了文章 <a href=\"https://juejin.cn/post/7127310366794579998\" target=\"_blank\">python 一行代码打印爱心</a>"
+            },
+            {
+                "action_name": "取消点赞",
+                "ident": "pins.diggs",
+                "id": "7127301044136050695",
+                "timestr": "2022-08-02 22:33:14",
+                "content": "点赞了沸点 <a href=\"https://juejin.cn/pin/7127301044136050695\" target=\"_blank\">[7118933012854603806#打工人的快手餐#]啤酒里面加点冰块加点话梅喝着口味更独特了，夏天，还是得有冰啤酒啊，有人想喝吗？我请你。听说柠檬水和话梅放一起也很好喝，明晚再试试吧，这一大包得吃多久才吃得完啊</a>"
+            },
+            {
+                "action_name": "取消点赞",
+                "ident": "pins.diggs",
+                "id": "7127308854563438600",
+                "timestr": "2022-08-02 22:33:14",
+                "content": "点赞了沸点 <a href=\"https://juejin.cn/pin/7127308854563438600\" target=\"_blank\">[7118932378881359906#理财知识科普#]\n好好理解别人说的话是啥意思而不是恶意揣度也是一种本事。\n\n单一事件驱动不会改变只加速行情趋势，行情向上的动能不足存在调整需求，当然未来一段时间可能会有很多次这样的行情试金石出现。\n\n对抗是一个长期的过程而不是跟人喝酒争风一样的一时上头，曾经有过机会终止但是因为一些偶然也必然的原因失去了，所以可以认为对抗就是一个长期持续的过程，在这个中间也一定会因此出现一些投资的机会，就像疫情一样，这世界上本身就有很多我们改变不了的危机，冷静下来去抓住获利机会。\n\n要做逻辑和客观事实的主人，而不是情绪的奴隶。</a>"
+            },
+            {
+                "ident": "articles.collections",
+                "id": "7127310071100342286",
+                "action_name": "取消收藏",
+                "title": "Redis RDB与AOF持久化详解",
+                "content": "收藏了文章 <a href=\"https://juejin.cn/post/7127310071100342286\" target=\"_blank\">《Redis RDB与AOF持久化详解》</a>",
+                "timestr": "2022-08-02 22:33:16",
+                "desc": "收藏至 <a href=\"https://juejin.cn/collection/7081672156953706509\" target=\"_blank\">我的收藏</a>"
+            },
+            {
+                "ident": "articles.collections",
+                "id": "7127310366794579998",
+                "action_name": "取消收藏",
+                "title": "python 一行代码打印爱心",
+                "content": "收藏了文章 <a href=\"https://juejin.cn/post/7127310366794579998\" target=\"_blank\">《python 一行代码打印爱心》</a>",
+                "timestr": "2022-08-02 22:33:16",
+                "desc": "收藏至 <a href=\"https://juejin.cn/collection/7081672156953706509\" target=\"_blank\">我的收藏</a>"
+            },
+            {
+                "action_name": "取消关注",
+                "ident": "follows",
+                "id": "712139234347565",
+                "timestr": "2022-08-02 22:33:17",
+                "content": "关注了用户 <a href=\"https://juejin.cn/user/712139234347565\" target=\"_blank\">前端早早聊</a>"
+            },
+            {
+                "action_name": "取消关注",
+                "ident": "follows",
+                "id": "122746142200264",
+                "timestr": "2022-08-02 22:33:18",
+                "content": "关注了用户 <a href=\"https://juejin.cn/user/122746142200264\" target=\"_blank\">azuo</a>"
+            }
         ]
     }
 }
