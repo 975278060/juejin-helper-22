@@ -2254,6 +2254,50 @@
                 "timestr": "2022-08-03 22:32:39",
                 "content": "关注了用户 <a href=\"https://juejin.cn/user/3668388983878573\" target=\"_blank\">我犟不过你</a>"
             }
+        ],
+        "2022-08-04": [
+            {
+                "action_name": "删除文章",
+                "ident": "articles.publish",
+                "id": "7128151978777313310",
+                "timestr": "2022-08-04 22:30:39",
+                "content": "发布了文章 <a href=\"https://juejin.cn/post/7128151978777313310\" target=\"_blank\">React组件应用于Spring MVC工程</a>"
+            },
+            {
+                "action_name": "删除文章",
+                "ident": "articles.publish",
+                "id": "7128152092145156126",
+                "timestr": "2022-08-04 22:30:46",
+                "content": "发布了文章 <a href=\"https://juejin.cn/post/7128152092145156126\" target=\"_blank\">为了高性能、超大规模的模型训练，这个组合“出道”了</a>"
+            },
+            {
+                "action_name": "删除沸点",
+                "ident": "pins.publish",
+                "id": "7128152098918629407",
+                "timestr": "2022-08-04 22:30:46",
+                "content": "发布了沸点 <a href=\"https://juejin.cn/pin/7128152098918629407\" target=\"_blank\">这不是神经病，是理想</a>"
+            },
+            {
+                "action_name": "删除沸点",
+                "ident": "pins.publish",
+                "id": "7128152062860197902",
+                "timestr": "2022-08-04 22:30:47",
+                "content": "发布了沸点 <a href=\"https://juejin.cn/pin/7128152062860197902\" target=\"_blank\">连我自己都轻视自己的话，谁来夸奖我啊，只有我了，舍我其谁。</a>"
+            },
+            {
+                "ident": "articles.comments",
+                "action_name": "删除评论",
+                "id": "7128151548215526180",
+                "timestr": "2022-08-04 22:30:48",
+                "content": "评论了文章 <a href=\"https://juejin.cn/post/7128037718612770824\" target=\"_blank\">Python 添加命令行参数</a>"
+            },
+            {
+                "ident": "articles.comments",
+                "action_name": "删除评论",
+                "id": "7128151455647417125",
+                "timestr": "2022-08-04 22:30:49",
+                "content": "评论了文章 <a href=\"https://juejin.cn/post/7128036482836594702\" target=\"_blank\">再肝3天，整理了90个 NumPy 例子，不能不收藏！</a>"
+            }
         ]
     }
 }
