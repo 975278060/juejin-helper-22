@@ -3067,6 +3067,103 @@
                 "timestr": "2022-08-10 23:36:36",
                 "content": "关注了用户 <a href=\"https://juejin.cn/user/3526889030825928\" target=\"_blank\">大鸡腿同学</a>"
             }
+        ],
+        "2022-08-11": [
+            {
+                "ident": "pins.comments",
+                "action_name": "删除评论",
+                "id": "7130766307187753758",
+                "timestr": "2022-08-11 23:36:38",
+                "content": "评论了沸点 <a href=\"https://juejin.cn/pin/7129334097113006116\" target=\"_blank\">【三分钟阅读挑战 | 碎片时间不浪费 】\n上下班坐地铁太无聊？睡觉前只知道刷短视频？那就来参加我们的三分钟阅读挑战活动吧，随时随地掏出你的手机，打开掘金app阅读文章，发布读书体会，留下你的学习脚印，高效利用一切碎片化时间！和掘友们共同阅读分享，真的不要太快乐！[看]\n\n[右]活动时间:  8月11日-8月31日\n\n【活动规则】\n打开稀土掘金app阅读文章，并将文章链接分享到沸点圈子【好文推荐】，记录你的成长时刻（不少于20字），就有机会获得敲好看的掘金IP阅读卡，兑换精美周边。害，阅读还能拿奖这件事，不参加真的走宝了！全程都需要在掘金app操作，web端无效！！！\n\n另外本次活动还有【首次app下载专属福利】，通过这条链接https://z.juejin.cn/G1Jq，或者扫描下方二维码，完成首次下载稀土掘金app的掘友，可以领取到4天阅读加速器，更快获得掘金IP阅读卡和精美周边！最短只需阅读一天，就能获得实用手机支架一个！注意注意，只能通过小助手提供的链接才能被统计到！\n\n格式推荐：读书体会（不少于20字）+文章链接\n具体步骤：打开稀土掘金app上任意一篇文章，进行阅读，并复制文章链接，在沸点选择圈子【好文推荐】，分享阅读体会，最后发布即可，如下图。\n\n[礼物]【活动奖项】\n阅读大师奖：从阅读满21天的掘友中，抽取一人送Pico Neo3 VR一体机一个；\n出类拔萃奖：官方挑选10条优质内容，发布者可以获得空调毯一个。\n\n【活动说明】\n1. 本次活动属于稀土掘金APP的专属活动，只有在APP端发布，且带上【好文推荐】圈子的沸点，才算挑战成功。\n2. 首次下载必须是该设备从未下载过app，仅限第一次下载！卸载重装不属于首次下载噢。并且只能通过官方提供的链接才算呀，否则小助手统计不到！\n3. 使用4天阅读加速器后，就可以减少获得礼物的阅读天数，举个例子，原本需要阅读5天，才能获得手机支架一个，但现在使用4天阅读加速器后，只需要阅读一天，就可以领取到手机支架！[力量]</a>"
+            },
+            {
+                "ident": "pins.comments",
+                "action_name": "删除评论",
+                "id": "7130766231074161422",
+                "timestr": "2022-08-11 23:36:40",
+                "content": "评论了沸点 <a href=\"https://juejin.cn/pin/7130641214981799966\" target=\"_blank\">说的道理不错</a>"
+            },
+            {
+                "ident": "pins.comments",
+                "action_name": "删除评论",
+                "id": "7130766293103313701",
+                "timestr": "2022-08-11 23:36:42",
+                "content": "评论了沸点 <a href=\"https://juejin.cn/pin/7130639594889936909\" target=\"_blank\">女菜鸟前端\n蹲个前端大佬😂</a>"
+            },
+            {
+                "ident": "pins.comments",
+                "action_name": "删除评论",
+                "id": "7130766171867726622",
+                "timestr": "2022-08-11 23:36:44",
+                "content": "评论了沸点 <a href=\"https://juejin.cn/pin/7130639810959507464\" target=\"_blank\">蔚来内推来喽！[偷笑][偷笑][偷笑]\n欢迎2023届校招小伙伴，或者社招小伙伴。\n内推码：AG6ZKRE\n</a>"
+            },
+            {
+                "ident": "pins.comments",
+                "action_name": "删除评论",
+                "id": "7130766310438355719",
+                "timestr": "2022-08-11 23:36:46",
+                "content": "评论了沸点 <a href=\"https://juejin.cn/pin/7130634026892656670\" target=\"_blank\">JDK中有预置提供了很多的函数式接口，比如Supplier、Consumer、Predicate等，可又分别应用于不同场景的使用。当然咯，根据业务的实际需要，我们也可以去自定义需要的函数式接口，来方便我们自己。</a>"
+            },
+            {
+                "ident": "articles.diggs",
+                "id": "7130621147619541005",
+                "action_name": "取消点赞",
+                "timestr": "2022-08-11 23:36:47",
+                "content": "点赞了文章 <a href=\"https://juejin.cn/post/7130621147619541005\" target=\"_blank\">【Python】pygame-项目实战（7）-英雄动画效果实现</a>"
+            },
+            {
+                "ident": "articles.diggs",
+                "id": "7130624201547300871",
+                "action_name": "取消点赞",
+                "timestr": "2022-08-11 23:36:48",
+                "content": "点赞了文章 <a href=\"https://juejin.cn/post/7130624201547300871\" target=\"_blank\">LeetCode重新格式化字符串使用JavaScript解题|前端学算法</a>"
+            },
+            {
+                "action_name": "取消点赞",
+                "ident": "pins.diggs",
+                "id": "7130641214981799966",
+                "timestr": "2022-08-11 23:36:49",
+                "content": "点赞了沸点 <a href=\"https://juejin.cn/pin/7130641214981799966\" target=\"_blank\">说的道理不错</a>"
+            },
+            {
+                "action_name": "取消点赞",
+                "ident": "pins.diggs",
+                "id": "7130639594889936909",
+                "timestr": "2022-08-11 23:36:50",
+                "content": "点赞了沸点 <a href=\"https://juejin.cn/pin/7130639594889936909\" target=\"_blank\">女菜鸟前端\n蹲个前端大佬😂</a>"
+            },
+            {
+                "ident": "articles.collections",
+                "id": "7130621147619541005",
+                "action_name": "取消收藏",
+                "title": "【Python】pygame-项目实战（7）-英雄动画效果实现",
+                "content": "收藏了文章 <a href=\"https://juejin.cn/post/7130621147619541005\" target=\"_blank\">《【Python】pygame-项目实战（7）-英雄动画效果实现》</a>",
+                "timestr": "2022-08-11 23:36:51",
+                "desc": "收藏至 <a href=\"https://juejin.cn/collection/7081672156953706509\" target=\"_blank\">我的收藏</a>"
+            },
+            {
+                "ident": "articles.collections",
+                "id": "7130624201547300871",
+                "action_name": "取消收藏",
+                "title": "LeetCode重新格式化字符串使用JavaScript解题|前端学算法",
+                "content": "收藏了文章 <a href=\"https://juejin.cn/post/7130624201547300871\" target=\"_blank\">《LeetCode重新格式化字符串使用JavaScript解题|前端学算法》</a>",
+                "timestr": "2022-08-11 23:36:52",
+                "desc": "收藏至 <a href=\"https://juejin.cn/collection/7081672156953706509\" target=\"_blank\">我的收藏</a>"
+            },
+            {
+                "action_name": "取消关注",
+                "ident": "follows",
+                "id": "2305054774145918",
+                "timestr": "2022-08-11 23:36:53",
+                "content": "关注了用户 <a href=\"https://juejin.cn/user/2305054774145918\" target=\"_blank\">易师傅</a>"
+            },
+            {
+                "action_name": "取消关注",
+                "ident": "follows",
+                "id": "1521379823340792",
+                "timestr": "2022-08-11 23:36:53",
+                "content": "关注了用户 <a href=\"https://juejin.cn/user/1521379823340792\" target=\"_blank\">掘金安东尼</a>"
+            }
         ]
     }
 }
